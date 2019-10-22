@@ -2,11 +2,9 @@
 
 本文档收集整理了中国科学技术大学第六届信息安全大赛的官方与非官方题解。
 
-该仓库仍在活跃更新中，欢迎各位选手以 Pull Request 的形式提交自己的 write-up （players 目录）。
+该仓库仍在活跃更新中，欢迎各位选手以 Pull Request 的形式提交自己的 write-up （players 目录下以自己的昵称创建新文件夹）。
 
 若大家对本题解有任何疑问或改进建议，欢迎 [提 issue](https://github.com/ustclug/hackergame2019-writeups/issues/new)
-
-**还没有详细题解的题目会在这几天陆续补充，请耐心等待！**
 
 ## 目录
 
@@ -19,7 +17,7 @@
 | [信息安全 2077](official/信息安全_2077/README.md)           | [文件、源代码](official/信息安全_2077/src)                      |
 | [宇宙终极问题](official/宇宙终极问题/README.md)           | [文件、源代码](official/宇宙终极问题/src)                   |
 | [网页读取器](official/网页读取器/README.md)                  | [文件、源代码](official/网页读取器/src)                      |
-| [达拉崩吧大冒险（源代码暂缺）](official/达拉崩吧大冒险/README.md)                   | [文件、源代码](official/达拉崩吧大冒险/src)                      |
+| [达拉崩吧大冒险](official/达拉崩吧大冒险/README.md)                   | [文件、源代码](official/达拉崩吧大冒险/src)                      |
 | [Happy LUG](official/Happy_LUG/README.md)         | -                   |
 | [正则验证器](official/正则验证器/README.md)   | [文件、源代码](official/正则验证器/src)              |
 | [不同寻常的 Python 考试](official/不同寻常的_Python_考试/README.md)             | [文件、源代码](official/不同寻常的_Python_考试/src)                  |
@@ -30,7 +28,7 @@
 | [献给最好的你](official/献给最好的你/README.md) | [文件、源代码](official/献给最好的你/src)          |
 | [驴啃计算器](official/驴啃计算器/README.md)         | [文件、源代码](official/驴啃计算器/src)                 |
 | [天书残篇](official/天书残篇/README.md) | [文件、源代码](official/天书残篇/src)            |
-| [我想要个家（源代码暂缺）](official/我想要个家/README.md)     | [文件、源代码](official/我想要个家/src)                |
+| [我想要个家](official/我想要个家/README.md)     | [文件、源代码](official/我想要个家/src)                |
 | [十次方根](official/十次方根/README.md) | [文件、源代码](official/十次方根/src) |
 | [被泄漏的姜戈](official/被泄漏的姜戈/README.md)       | [文件、源代码](https://github.com/openlug/django-common)                |
 | [无限猴子定理](official/无限猴子定理/README.md)           | [文件、源代码](official/无限猴子定理/src)                  |
@@ -49,10 +47,25 @@
 
 [Coxxs](https://coxxs.me/1321)
 
-[XhyEax](players/Xhy)
+[XhyEax](https://xhyeax.github.io/2019/10/22/hackersgame-2019-writeup/)
+
+[三日月綾香](players/三日月綾香)
+
+[sparkcyf](players/sparkcyf)
+
+[隐式类型转换](https://www.nottres.com/nonetype/ustc-hackergame-2019-writeup.html)
+
+[Merg1n](players/Merg1n)
+
+[猫神様のメモ帳](players/猫神様のメモ帳)
+
+[xukl](players/xukl)
+
+[stevapple](players/stevapple)
 
 ## 其他资源
 
+- [知乎：参加中国科学技术大学第六届信息安全大赛（Hackergame 2019）是怎样一种体验？](https://www.zhihu.com/question/351947330)
 - [中国科学技术大学第五届信息安全大赛题解](https://github.com/ustclug/hackergame2018-writeups)
 - [中国科学技术大学第四届信息安全大赛题解](https://volltin.gitbooks.io/hackergame2017-writeup/)
 
