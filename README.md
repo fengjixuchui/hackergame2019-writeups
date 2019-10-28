@@ -64,6 +64,8 @@
 | [Indexyz](https://blog.indexyz.me/archives/2019-ustc-hackergame-writeup/) | | |
 | [Ts2222](players/Ts2222) | | |
 | [cvhc](players/cvhc) | | |
+| [ranwen](https://github.com/ranwen/USTC-Hackergame2019-WP) | | |
+| [7feilee](players/7feilee) | | |
 
 ## 其他资源
 
